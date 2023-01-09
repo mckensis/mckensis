@@ -1,6 +1,6 @@
 Hi, I'm Aidan.
 
-In July 2022 I left hospitality in pursue of a career which is more synced up my interests.
+In July 2022 I left hospitality in pursuit of a career which is more synced up to my interests.
 
 I am currently working my way through The Odin Project's curriculum.
 
